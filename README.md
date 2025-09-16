@@ -5,7 +5,7 @@ ADB를 활용하여 연결된 단말기의 다양한 정보를 확인하고, 시
 # 탭별 기능
 
 ## Device
-
+<img width="986" height="793" alt="image" src="https://github.com/user-attachments/assets/7810ba60-9963-4f85-aa54-b7e42a7887ba" />
 
 - 단말기 정보(연결된 단말기 정보)
 - 제조사, 모델명, 안드로이드 버전, 빌드 버전, 루팅 여부, 개발자 옵션 여부, USB 디버깅 여부, SELinux
