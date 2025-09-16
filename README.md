@@ -15,38 +15,38 @@ ADB를 활용하여 연결된 단말기의 다양한 정보를 확인하고, 시
 - CMD, ADB 콘솔 열기
 
 ## Proccess 
-<img width="986" height="793" alt="image" src="https://github.com/user-attachments/assets/82df6933-9607-4a2e-b618-2b8f672f5a72" />
+<img width="986" height="793" alt="image" src="https://github.com/user-attachments/assets/d97ad641-76f4-4205-b828-4c6e5724a170" />
 
 - 현재 실행중인 앱 정보
 - 메모리 덤프 기능(자동, 수동)
 
 ## Apps
-<img width="986" height="793" alt="image" src="https://github.com/user-attachments/assets/145256c1-547c-4ff6-8fe7-e4b6b4c20fd7" />
+<img width="986" height="793" alt="image" src="https://github.com/user-attachments/assets/c8c29142-64c1-4b3f-a2b9-12e23ab445e2" />
 
 - 디렉터리 뷰어(파일 업/다운로드, 파일/폴더 CRUD, 권한 설정, 파일 시그니처 확인-파일 헤더 확인)
 - 앱 추출 기능
 - 화면 캡쳐 기능(화면 캡쳐, 저장경로 설정)
 
 ## Log 
-<img width="986" height="793" alt="image" src="https://github.com/user-attachments/assets/eee39d08-3373-424d-8adc-40f6c6f57f4e" />
+<img width="986" height="793" alt="image" src="https://github.com/user-attachments/assets/c82d6f15-afaa-4ed3-be5f-42591b7f960e" />
 
 - 작업 내역을 로그로 저장(SQLITE)
 
 ## Network
-<img width="986" height="793" alt="image" src="https://github.com/user-attachments/assets/10613575-2bce-45d6-bcb9-bedf9733edc1" />
+<img width="986" height="793" alt="image" src="https://github.com/user-attachments/assets/d7fe6ee4-20aa-4070-b032-c9b39e3ac016" />
 
 - iptables 설정 기능(추가, 삭제, 수정)
   - python MITM 명령어 참고 가능
 - 프록시 설정 기능
 
 ## Apktool
-<img width="986" height="793" alt="image" src="https://github.com/user-attachments/assets/4c4fa3a6-3329-4dd2-a618-b004cbeafd2a" />
+<img width="986" height="793" alt="image" src="https://github.com/user-attachments/assets/d09f7960-0d08-4023-aff9-1c479a57d4e7" />
 
 - 디컴파일/컴파일
 - 앱 사이닝
 
 ## Frida
-<img width="986" height="793" alt="image" src="https://github.com/user-attachments/assets/2ed1e69a-5056-490f-85a3-ecb730fa1931" />
+<img width="986" height="793" alt="image" src="https://github.com/user-attachments/assets/50ab312d-b911-499d-b642-e7637b883e80" />
 
 - 자주 사용하는 Frida 스크립트 저장 기능(SQLITE)
   
