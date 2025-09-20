@@ -35,6 +35,7 @@ ADB를 활용하여 연결된 단말기의 다양한 정보를 확인하고, 시
 ## Network
 <img width="986" height="793" alt="image" src="https://github.com/user-attachments/assets/d7fe6ee4-20aa-4070-b032-c9b39e3ac016" />
 
+- ROOT CA 단말기에 설치 해주고 알아서 재부팅해주기
 - iptables 설정 기능(추가, 삭제, 수정)
   - python MITM 명령어 참고 가능
 - 프록시 설정 기능
@@ -52,5 +53,4 @@ ADB를 활용하여 연결된 단말기의 다양한 정보를 확인하고, 시
   
 ## 추후 기능 개발
 - 라이브러리 미리 보기 기능
-- ROOT CA 단말기에 설치 해주고 알아서 재부팅해주기
 - DEX DUMP 기능.
